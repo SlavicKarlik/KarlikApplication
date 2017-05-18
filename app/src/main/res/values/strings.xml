@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="TextViewChangeText">Write text in the top input then click button</string>
+    <string name="Button">Click me!</string>
+    <string name="EnterWord">Enter Word:</string>
+    <string name="InMorseCode">In Morse Code:</string>
+    <string name="MorseCodeResult" />
+    <string name="MorseCodeButton">Translate</string>
+    <string name="MorseCode">Morse Code</string>
+    <string name="ChangeTextButton">Change Text</string>
+    <string name="FlipACoin">Flip A Coin</string>
+    <string name="FlipACoinHead">Head: %1$d</string>
+    <string name="FlipACoinTail">Tail: %1$d</string>
+    <string name="FlipACoinTotal">Total: %1$d</string>
+    <string name="FlipACoinFlip">Flip</string>
+    <string name="FlipACoinResult" />
+    <string name="TwentyOnePlayerOneTake">Take</string>
+    <string name="TwentyOnePlayerOneStop">Stop</string>
+    <string name="TwentyOneSum">Sum: 0</string>string>
+</resources>
