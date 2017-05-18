@@ -8,6 +8,8 @@ import android.widget.Button;
 
 public class Menu extends AppCompatActivity {
 
+    //TODO: add comments!!!
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
